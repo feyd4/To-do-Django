@@ -4,8 +4,7 @@ A dead simple Django ToDo Web App
 This is a sample project that a novice django developer can use to get started.
 
 ## Working
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5d7bf474-e1bb-4416-ad84-9502532436e7)
 
 
 ## Features
